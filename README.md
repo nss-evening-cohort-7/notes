@@ -1,6 +1,6 @@
 # Martin's Notes
 
-1. **[Jan Sat. 6th - Thurs. 11th](d0eab6afadac60f20f8afcdcda048f5f#file-week1-md)**
+1. **[Jan Sat. 6th - Thurs. 11th](https://github.com/nss-evening-cohort-06/notes/blob/master/weeks/Week1.md)**
 1. **[Jan 13th-18th](d0eab6afadac60f20f8afcdcda048f5f#file-week2-md)**
 1. **[Jan 20th-25th](d0eab6afadac60f20f8afcdcda048f5f#file-week3-md)**
 1. **[Jan 27th-1st](d0eab6afadac60f20f8afcdcda048f5f#file-week4-md)**
