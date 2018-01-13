@@ -1,6 +1,6 @@
 # Martin's Notes
 
-1. **[Jan Sat. 6th - Thurs. 11th](https://github.com/nss-evening-cohort-06/notes/blob/master/weeks/Week1.md)** (Basics) :snowflake: :snowflake: :snowflake:
+1. **[Jan Sat. 6th - Thurs. 11th](https://github.com/nss-evening-cohort-06/notes/blob/master/weeks/Week1.md)** (Basics) <sup><sup>:snowflake: :snowflake: :snowflake:
 1. **[Jan 15th-18th](https://github.com/nss-evening-cohort-06/notes/blob/master/weeks/Week2.md)** (Collections)
 1. **[Jan 20th-25th](d0eab6afadac60f20f8afcdcda048f5f#file-week3-md)** (null)
 1. **[Jan 27th-1st](d0eab6afadac60f20f8afcdcda048f5f#file-week4-md)** (LINQ)
