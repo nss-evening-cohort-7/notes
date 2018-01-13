@@ -1,8 +1,8 @@
-# Jan Sat. 6th - Thurs. 11th
+# Jan Sat. 6th - Thurs. 11th <sub><sub><sub>:snowflake: :snowflake: :snowflake:
 
 ## How can I talk about what I'm learning?
 
-[.NET can mean a lot of things](https://www.microsoft.com/net/learn/what-is-dotnet).
+[.NET can mean a lot of things](https://www.microsoft.com/net/learn/what-is-dotnet). It is a complex ecosystem and you're only going to get experience with a part of it here in class.
 
 [.NET Core & .NET Framework are different](https://docs.microsoft.com/en-us/dotnet/standard/choosing-core-framework-server). _.NET Framework_ requires a Windows (virtual) environment. _.NET Core_ is newer, different, and can run on multiple operating systems, but overlaps some _**core**_ features<sub>*ba dum tss</sub> as well.
 
@@ -38,6 +38,28 @@ You should already be familiar with [methods](https://github.com/nss-evening-coh
 
 ***
 
+#### Exercises
+
+- A few of your favorite things (Custom Types with behavior)
+
+- Construct some Lego Minifigure Classes
+	###### Properties
+
+	Hair/Hat, Head, Torso, Legs, Accessories, etc.
+
+	###### Methods
+
+	If you were working at [Tt Games](http://www.ttgames.com/), your minifigure classes might have actions associated with them in the form of jump, double jump, attack, special attack, look & move methods.
+	There might even be certain conditions that must be met to construct (or unlock) a new character or other kind of object.
+
+- [Corporate Class](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/master/orientation/exercises/05_CLASSES.md)
+
+- [Employee Aggregation](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/formatting/orientation/exercises/bangazon/BANGAZON_05.md)
+
+- [Jungle Overloading](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/master/orientation/exercises/bangazon/BANGAZON_03.md)
+
+***
+
 ## _Professionals learn their tools_ :hammer_and_wrench: :crystal_ball: :speech_balloon:
 #### Code Navigation
 - [Projects & Solutions](https://docs.microsoft.com/en-us/visualstudio/ide/creating-solutions-and-projects)
@@ -45,19 +67,19 @@ You should already be familiar with [methods](https://github.com/nss-evening-coh
 
 #### [Debugger](https://docs.microsoft.com/en-us/visualstudio/debugger/debugger-feature-tour)
 If you're not using the debugger already then **_START NOW_**. It is the single greatest tool a programmer can use. When you want to `console.log(something)`, now you will use a debugger instead. Even [in JavaScript](https://stackoverflow.com/a/66431). **Seriously, I never want to see another `console.log()` again.**
-- Call Stack
+- Yellow arrow is the point of execution. The highlighted line has not been executed.
+- Call Stack shows current code path at point of execution.
 - Locals, Immediate Window, & Watch.
 	> Also, hovering over variables and using the mouse, but why do that when you have [hotkeys](http://visualstudioshortcuts.com/2017/) and search (<kbd>Ctrl</kbd>+<kbd>Q</kbd>)?
-- Yellow arrow
-- Step Over, Step Into, and Step Out
+- Step Over <kbd>F10</kbd>, Step Into <kbd>F11</kbd>, and Step Out <kbd>Shift</kbd>+<kbd>F11</kbd>
 - Run to click
 - Run to cursor (<kbd>Ctrl</kbd>+<kbd>F10</kbd>)
 
 #### Intellisense
 - Code completion
-- Hovertext/tooltips as documentation
+- Hover text/tooltips as documentation
 - Red/Green squiggly underline is referring to the Error List.
-- Lightbulb - (<kbd>Ctrl</kbd>+<kbd>.</kbd>)
+- Light bulb - (<kbd>Ctrl</kbd>+<kbd>.</kbd>)
 
 #### Refactor Rename (<kbd>Ctrl</kbd>+<kbd>R,R</kbd>)
 - Preview Changes :point_up: , (<kbd>Alt</kbd>+<kbd>P</kbd>)
