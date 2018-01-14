@@ -60,6 +60,14 @@ You should already be familiar with [methods](https://github.com/nss-evening-coh
 
 ***
 
+#### Classmate Resources
+- Ken
+	- [C#: Learn C# in One Day and Learn It Well.](https://www.amazon.com/Beginners-Hands-Project-Coding-Project-ebook/dp/B016Z18MLG/ref=sr_1_fkmr0_1?ie=UTF8&qid=1515544935&sr=8-1-fkmr0&keywords=learn+C%23+in+one+day)
+	- [C# Cheat Sheet](https://www.thecodingguys.net/resources/cs-cheat-sheet.pdf)
+- Brooke![](http://www.tutorialsteacher.com/Content/images/csharp/csharp-class.png)
+
+***
+
 ## _Professionals learn their tools_ :hammer_and_wrench: :crystal_ball: :speech_balloon:
 #### Code Navigation
 - [Projects & Solutions](https://docs.microsoft.com/en-us/visualstudio/ide/creating-solutions-and-projects)
