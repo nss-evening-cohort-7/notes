@@ -13,8 +13,6 @@
 	- continue v. break
 	- return v. throw
 - Try and Catch Exceptions - https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/exceptions/index
-- `TryParse()` with `out` variable declaration v. `as` operator
-	- no need to tryparse in a try-catch. You actually want an exception to be thrown so that you can catch it.
 - Async - https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/control-flow-in-async-programs
 
 #### Exercise
