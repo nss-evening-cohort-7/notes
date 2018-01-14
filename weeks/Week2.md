@@ -1,18 +1,27 @@
 # **Jan 15th-18th**
 
-#### logical operations
+## How can I make my program do something interesting?
+
+#### Logical Operators
 - C# operators - https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/
-#### control flow
+#### Control Flow in C#
+- Branching
+	- if...else
+	- switch
+- Looping
+	- for, foreach, while, do->while
+	- continue v. break
+	- return v. throw
 - Try and Catch Exceptions - https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/exceptions/index
-- Async - https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/control-flow-in-async-programs
 - `TryParse()` with `out` variable declaration v. `as` operator
 	- no need to tryparse in a try-catch. You actually want an exception to be thrown so that you can catch it.
+- Async - https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/control-flow-in-async-programs
 
-
-# **Jan 15th-25th**
-#### Looping
+#### Exercise
 
 - [LetterLoops](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/master/orientation/exercises/LetterLoops.md)
+
+***
 
 #### Collections
 
@@ -21,11 +30,11 @@ In Javascript you have arrays and objects. In C# you have [Collections](https://
 > .NET has [lots](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/formatting/concepts/csharp-language/collections.md) and [lots](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic?view=netframework-4.7.1) of types of [collections](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/master/orientation/02_FIRST_EXECUTABLE.md#c-collections). List and Dictionary are the most common ones.
 
 - Lists
-	- [Planets and Spaceships](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/master/orientation/exercises/01_LISTS.md)
 	- [Random Square](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/master/orientation/exercises/10_RANDOMSQUARED.md)
+	- [Planets and Spaceships](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/master/orientation/exercises/01_LISTS.md)
 - Dictionaries
-	- [Stock Purchase Dictionary](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/master/orientation/exercises/03_DICTIONARIES.md)
 	- [Family Dictionary](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/master/orientation/exercises/08_FAMILY_DICTIONARY.md)
+	- [Stock Purchase Dictionary](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/master/orientation/exercises/03_DICTIONARIES.md)
 
 ***
 
