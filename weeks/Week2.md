@@ -2,9 +2,9 @@
 
 ## How can I make my program do something interesting?
 
-#### Logical Operators
+### Logical Operators
 - [C# operators](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/)
-#### Control Flow in C#
+### Control Flow in C#
 - Branching
 	- `if` :twisted_rightwards_arrows: `else`
 	- `switch`
@@ -16,17 +16,19 @@
 	- `TryParse()` with `out` variable declaration v. `as` operator
 - [`async` and `await`](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/control-flow-in-async-programs)
 
-#### Exercise
+##### Exercise
 
 - [LetterLoops](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/master/orientation/exercises/LetterLoops.md)
 
 ***
 
-#### Collections
+### Collections
 
 In Javascript you have arrays and objects. In C# you have [Collections](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/master/orientation/06_COLLECTIONS.md). You'll be learning about only a couple of the most common ones.
 
 > .NET has [lots](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/formatting/concepts/csharp-language/collections.md) and [lots](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic?view=netframework-4.7.1) of types of [collections](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/master/orientation/02_FIRST_EXECUTABLE.md#c-collections). List and Dictionary are the most common ones.
+
+##### Exercises
 
 - Lists
 	- [Random Square](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/master/orientation/exercises/10_RANDOMSQUARED.md)

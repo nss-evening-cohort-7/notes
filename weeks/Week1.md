@@ -38,7 +38,7 @@ You should already be familiar with [methods](https://github.com/nss-evening-coh
 
 ***
 
-#### Exercises
+##### Exercises
 
 - A few of your favorite things (Custom Types with behavior)
 
