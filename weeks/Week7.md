@@ -13,6 +13,3 @@
 - [SQL]
 	- [Music History](https://github.com/nashville-software-school/bangazon-inc/blob/master/orientation/exercises/16_MUSIC_HISTORY.md) // written for SQLite
 	- [Chinook](https://github.com/nashville-software-school/bangazon-inc/blob/master/orientation/exercises/19_SQL_CHINOOK.md)
-
-#### Kate's Corner
-- Feeling bored? Everything too easy? Try some [Regex](https://github.com/nashville-software-school/bangazon-inc/blob/formatting/concepts/csharp-language/regular-expressions.md) on for size.

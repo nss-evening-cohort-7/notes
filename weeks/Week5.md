@@ -5,3 +5,5 @@
 
 #### Kate's Corner
 - [LINQ](https://github.com/nashville-software-school/bangazon-inc/blob/formatting/concepts/data-access/linq.md)
+- Advanced
+	- [Regex](https://github.com/nashville-software-school/bangazon-inc/blob/formatting/concepts/csharp-language/regular-expressions.md)
