@@ -9,7 +9,6 @@
 1. **[Feb 17th-22nd](https://github.com/nss-evening-cohort-06/notes/blob/master/weeks/Week7.md)** (Databases)
 1. **[Feb 24th-1st](https://github.com/nss-evening-cohort-06/notes/blob/master/weeks/Week8.md)** (ORMs)
 1. **Mar 3rd-8th**
-	- [Repository Pattern](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/master/concepts/data-access/repository-pattern.md)
 1. **Mar 10th-15th** (Scrum) // ask Meg to come back and speak
 1. **Mar 17th-22nd**
 	- [Bangazon Terminal Interface](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/master/projects/BANGAZON_TERMINAL_INTERFACE.md) // Build on the code created in week 1
