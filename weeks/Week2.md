@@ -1,7 +1,12 @@
 # **Jan 15th-18th**
 
-logical operations
-control flow
+#### logical operations
+- C# operators - https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/
+#### control flow
+- Try and Catch Exceptions - https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/exceptions/index
+- Async - https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/control-flow-in-async-programs
+- `TryParse()` with `out` variable declaration v. `as` operator
+	- no need to tryparse in a try-catch. You actually want an exception to be thrown so that you can catch it.
 
 
 # **Jan 15th-25th**
@@ -23,12 +28,6 @@ In Javascript you have arrays and objects. In C# you have [Collections](https://
 	- [Family Dictionary](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/master/orientation/exercises/08_FAMILY_DICTIONARY.md)
 
 ***
-
-- Bangazon
-	- [Architecture](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/formatting/orientation/exercises/bangazon/BANGAZON_01.md) - Has Dictionary and Inheritance.
-	- [Polymorphism](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/formatting/orientation/exercises/bangazon/BANGAZON_02.md)
-
-###### **_need more distributed exercises going forward?_**
 
 - [Syntactic Sugar in C# 6](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/master/orientation/exercises/06_%20EXPRESSION_FN_MEMBERS.md)
 
