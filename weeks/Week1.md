@@ -52,9 +52,10 @@ You should already be familiar with [methods](https://github.com/nss-evening-coh
 	If you were working at [Tt Games](http://www.ttgames.com/), your minifigure classes might have actions associated with them in the form of jump, double jump, attack, special attack, look & move methods.
 	There might even be certain conditions that must be met to construct (or unlock) a new character or other kind of object.
 
-- [Corporate Class](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/master/orientation/exercises/05_CLASSES.md)
+- Bangazon
+	- [Corporate Class](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/master/orientation/exercises/05_CLASSES.md)
 
-- [Employee Aggregation](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/formatting/orientation/exercises/bangazon/BANGAZON_05.md)
+	- [Employee Aggregation](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/formatting/orientation/exercises/bangazon/BANGAZON_05.md)
 
 - [Jungle Overloading](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/master/orientation/exercises/bangazon/BANGAZON_03.md)
 
@@ -64,7 +65,9 @@ You should already be familiar with [methods](https://github.com/nss-evening-coh
 - Ken
 	- [C#: Learn C# in One Day and Learn It Well.](https://www.amazon.com/Beginners-Hands-Project-Coding-Project-ebook/dp/B016Z18MLG/ref=sr_1_fkmr0_1?ie=UTF8&qid=1515544935&sr=8-1-fkmr0&keywords=learn+C%23+in+one+day)
 	- [C# Cheat Sheet](https://www.thecodingguys.net/resources/cs-cheat-sheet.pdf)
-- Brooke![](http://www.tutorialsteacher.com/Content/images/csharp/csharp-class.png)
+- Brooke
+
+	![](http://www.tutorialsteacher.com/Content/images/csharp/csharp-class.png)
 
 ***
 
