@@ -3,17 +3,18 @@
 ## How can I make my program do something interesting?
 
 #### Logical Operators
-- C# operators - https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/
+- [C# operators](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/)
 #### Control Flow in C#
 - Branching
-	- if...else
-	- switch
+	- `if` :twisted_rightwards_arrows: `else`
+	- `switch`
 - Looping
-	- for, foreach, while, do->while
-	- continue v. break
-	- return v. throw
-- Try and Catch Exceptions - https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/exceptions/index
-- Async - https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/control-flow-in-async-programs
+	- `for`, `foreach`, `while`, `do` :arrow_right_hook: `while`
+	- `continue` v. `break`
+	- `return` v. `throw`
+- [`try` and `catch` Exceptions](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/exceptions/index)
+	- `TryParse()` with `out` variable declaration v. `as` operator
+- [`async` and `await`](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/control-flow-in-async-programs)
 
 #### Exercise
 
