@@ -4,6 +4,10 @@
 
 ### Logical Operators
 - [C# operators](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/)
+
+	- `==` is the new `===`.
+	- `is` v. `as` for type conversion (without inheritance)
+
 ### Control Flow in C#
 - Branching
 	- `if` :twisted_rightwards_arrows: `else`
@@ -18,7 +22,7 @@
 
 ##### Exercise
 
-- [LetterLoops](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/master/orientation/exercises/LetterLoops.md)
+- [LetterLoops](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/master/orientation/exercises/LetterLoops.md) :abc: :arrows_clockwise:
 
 ***
 
@@ -32,10 +36,10 @@ In Javascript you have arrays and objects. In C# you have [Collections](https://
 
 - Lists
 	- [Random Square](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/master/orientation/exercises/10_RANDOMSQUARED.md)
-	- [Planets and Spaceships](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/master/orientation/exercises/01_LISTS.md)
+	- [Planets and Spaceships](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/master/orientation/exercises/01_LISTS.md) :earth_americas: :rocket:
 - Dictionaries
-	- [Family Dictionary](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/master/orientation/exercises/08_FAMILY_DICTIONARY.md)
-	- [Stock Purchase Dictionary](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/master/orientation/exercises/03_DICTIONARIES.md)
+	- [Family Dictionary](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/master/orientation/exercises/08_FAMILY_DICTIONARY.md) :family_woman_girl_boy:
+	- [Stock Purchase Dictionary](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/master/orientation/exercises/03_DICTIONARIES.md) :chart_with_upwards_trend: :chart_with_downwards_trend:
 
 ***
 
