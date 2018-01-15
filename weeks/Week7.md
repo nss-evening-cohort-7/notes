@@ -10,6 +10,8 @@
 
 	> There are many different implementations of SQL, but they are all fairly similar because SQL is merely a documented standard (explain ECMA(JavaScript) -> V8,SpiderMonkey,Chakra relationship? It's kinda everywhere.).
 
+	[SQL Control Flow](https://docs.microsoft.com/en-us/sql/t-sql/language-elements/control-of-flow)
+
 - [SQL]
 	- [Music History](https://github.com/nashville-software-school/bangazon-inc/blob/master/orientation/exercises/16_MUSIC_HISTORY.md) // written for SQLite
 	- [Chinook](https://github.com/nashville-software-school/bangazon-inc/blob/master/orientation/exercises/19_SQL_CHINOOK.md)
