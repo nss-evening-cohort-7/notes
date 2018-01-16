@@ -14,13 +14,19 @@
 	- `switch`
 - Looping
 	- `for`, `foreach`, `while`, `do` :arrow_right_hook: `while`
-	- `continue` v. `break`
+	- [`continue`](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/continue) v. [`break`](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/break)
 	- `return` v. `throw`
 - [`try` and `catch` Exceptions](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/exceptions/index)
 	- `TryParse()` with `out` variable declaration v. `as` operator
 - [`async` and `await`](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/control-flow-in-async-programs)
 
-##### Exercise
+##### Exercises
+
+- Collecting your favorite things
+    - Create 1 more favorite thing class.
+    - Create a List to contain each of your favorite things
+    - Add 3 instances of each type of thing to the correct list
+    - Loop over each list and print out text to the console for each item.
 
 - [LetterLoops](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/master/orientation/exercises/LetterLoops.md) :abc: :arrows_clockwise:
 
