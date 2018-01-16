@@ -1,7 +1,7 @@
 # Martin's Notes
 
 1. **[Jan Sat. 6th - Thurs. 11th](https://github.com/nss-evening-cohort-06/notes/blob/master/weeks/Week1.md)** (Classes, Methods, & Namespaces) <sup><sup>:snowflake: :snowflake: :snowflake:
-1. **[Jan 15th-18th](https://github.com/nss-evening-cohort-06/notes/blob/master/weeks/Week2.md)** (Collections)
+1. **[Jan 15th-18th](https://github.com/nss-evening-cohort-06/notes/blob/master/weeks/Week2.md)** (Collections) <sup><sup>:snowflake: :snowflake: :snowflake:
 1. **[Jan 20th-25th](https://github.com/nss-evening-cohort-06/notes/blob/master/weeks/Week3.md)** (Inheritance)
 1. **[Jan 27th-1st](https://github.com/nss-evening-cohort-06/notes/blob/master/weeks/Week4.md)** (Interfaces) // ask Matt, Leif, or Sean to come talk about game dev
 1. **[Feb 3rd-8th](https://github.com/nss-evening-cohort-06/notes/blob/master/weeks/Week5.md)** (LINQ) - guest instructor?

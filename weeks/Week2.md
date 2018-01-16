@@ -1,4 +1,4 @@
-# **Jan 15th-18th**
+# **Jan 15th-18th** <sub><sub><sub>:snowflake: :snowflake: :snowflake:
 
 ## How can I make my program do something interesting?
 
