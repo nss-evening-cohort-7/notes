@@ -1,6 +1,6 @@
 
 # **Feb 24th-1st**
-- [Testing]
+- [Testing] // speaking of which, how are koans coming along?
 	- [TDD Animals](https://github.com/nashville-software-school/bangazon-inc/blob/formatting/orientation/exercises/14_TEST_ANIMALS.md)
 	- [TDD Calculator](https://github.com/nashville-software-school/bangazon-inc/blob/formatting/orientation/exercises/13_TEST_CALCULATOR.md)
 	- [CLI with TDD Bag o' Loot](https://github.com/nashville-software-school/bangazon-inc/blob/formatting/orientation/exercises/15_BAG_OF_LOOT.md)
