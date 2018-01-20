@@ -46,7 +46,8 @@ In Javascript you have arrays and objects. In C# you have [Collections](https://
 - Dictionaries
 	- [Family Dictionary](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/master/orientation/exercises/08_FAMILY_DICTIONARY.md) :family_woman_girl_boy:
 	- [Stock Purchase Dictionary](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/master/orientation/exercises/03_DICTIONARIES.md) :chart_with_upwards_trend: :chart_with_downwards_trend:
-
+- Hashsets
+	- [Kill Nickelback](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/master/orientation/exercises/09_KILL_NICKELBACK.md)
 ***
 
 - [Syntactic Sugar in C# 6](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/master/orientation/exercises/06_%20EXPRESSION_FN_MEMBERS.md)
@@ -54,4 +55,4 @@ In Javascript you have arrays and objects. In C# you have [Collections](https://
 - Advanced Collection Exercises
 	- ~~[Car Hash](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/formatting/orientation/exercises/04_HASHSETS.md)~~
 	- ~~[Transaction Tuples](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/formatting/orientation/exercises/02_TUPLES.md)~~
-	- ~~[Kill Nickelback](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/master/orientation/exercises/09_KILL_NICKELBACK.md)~~
+
