@@ -55,8 +55,6 @@ You should already be familiar with [methods](https://github.com/nss-evening-coh
 - Bangazon
 	- [Corporate Class](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/master/orientation/exercises/05_CLASSES.md)
 
-	- [Employee Aggregation](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/formatting/orientation/exercises/bangazon/BANGAZON_05.md)
-
 - [Jungle Overloading](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/master/orientation/exercises/bangazon/BANGAZON_03.md)
 
 ***

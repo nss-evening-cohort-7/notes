@@ -1,9 +1,6 @@
-# **Jan 27th-1st**
-- [LINQ](https://github.com/nashville-software-school/bangazon-inc/blob/master/orientation/05_LINQ.md)
-	- [LINQed List](https://github.com/nashville-software-school/bangazon-inc/blob/master/orientation/exercises/07_LINQ_LIST.md)
-	- [Advanced LINQ](https://github.com/nashville-software-school/bangazon-inc/blob/master/orientation/exercises/20_ADVANCED_LINQ.md)
-
-
-- [LINQ](https://github.com/nashville-software-school/bangazon-inc/blob/formatting/concepts/data-access/linq.md)
-- Advanced
-	- [Regex](https://github.com/nashville-software-school/bangazon-inc/blob/formatting/concepts/csharp-language/regular-expressions.md) can be used [inside your LINQ](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/how-to-combine-linq-queries-with-regular-expressions)
+# **Feb 3rd-8th**
+- [Testing] // speaking of which, how are koans coming along?
+	- [TDD Animals](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/formatting/orientation/exercises/14_TEST_ANIMALS.md)
+	- [TDD Calculator](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/formatting/orientation/exercises/13_TEST_CALCULATOR.md)
+	- [CLI with TDD Bag o' Loot](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/formatting/orientation/exercises/15_BAG_OF_LOOT.md)
+	- [Mocking](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/formatting/concepts/unit-testing/mocking.md)
