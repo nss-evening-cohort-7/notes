@@ -3,14 +3,14 @@
 1. **[Jan Sat. 6th - Thurs. 11th](https://github.com/nss-evening-cohort-06/notes/blob/master/weeks/Week1.md)** (Classes, Methods, & Namespaces) <sup><sup>:snowflake: :snowflake: :snowflake: :snowflake: :snowflake: :snowflake:
 1. **[Jan 15th-18th](https://github.com/nss-evening-cohort-06/notes/blob/master/weeks/Week2.md)** (Collections) <sup><sup>:snowflake: :snowflake: :snowflake:
 1. **[Jan 20th-25th](https://github.com/nss-evening-cohort-06/notes/blob/master/weeks/Week3.md)** (Inheritance & Interfaces)
-1. **[Jan 27th-1st](https://github.com/nss-evening-cohort-06/notes/blob/master/weeks/Week4.md)** (LINQ) - guest instructor
-1. **[Feb 3rd-8th](https://github.com/nss-evening-cohort-06/notes/blob/master/weeks/Week5.md)** (TDD) // guest speaker to talk about C# in Unity VR?
-1. **[Feb 10th-15th](https://github.com/nss-evening-cohort-06/notes/blob/master/weeks/Week6.md)** (Databases)
+1. **[Jan 27th-1st](https://github.com/nss-evening-cohort-06/notes/blob/master/weeks/Week4.md)** (LINQ) // alumni guest instructor
+1. **[Feb 3rd-8th](https://github.com/nss-evening-cohort-06/notes/blob/master/weeks/Week5.md)** (TDD)
+1. **[Feb 10th-15th](https://github.com/nss-evening-cohort-06/notes/blob/master/weeks/Week6.md)** (Databases) // alumni guest speaker
 1. **[Feb 17th-22nd](https://github.com/nss-evening-cohort-06/notes/blob/master/weeks/Week7.md)** (null)
 1. **[Feb 24th-1st](https://github.com/nss-evening-cohort-06/notes/blob/master/weeks/Week8.md)** (ORMs)
 1. **Mar 3rd-8th** (null)
 1. **Mar 10th-15th** (null)
-1. **Mar 17th-22nd** (Scrum) // guest speaker to talk about agile/scrum
+1. **Mar 17th-22nd** (Scrum) // alumni guest speaker to talk about agile/scrum
 	- Kickoff for Bangazon full time?
 		[Teamwork Orientation](https://github.com/nashville-software-school/teamwork-orientation)
 	- [Bangazon Terminal Interface](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/master/projects/BANGAZON_TERMINAL_INTERFACE.md) // Refactor previous Bangazon exercises beforehand/afterward?
