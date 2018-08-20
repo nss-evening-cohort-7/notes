@@ -33,7 +33,8 @@ object myCustomThing4 = true; // a bool
 Arrays are available in C#, but the syntax is slightly different.
 ```cs
 string[] instructors = { "Nathan", "Martin", "Ben" };
-int[3] favoriteNumbers = { 42, 52, 111 }; // initialized to a length of 3
+int[] favoriteNumbers = new int[3]; // initialized to a length of 3
+favoriteNumbers = { 42, 52, 111 };
 ```
 
 ### String Concatenation
