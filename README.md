@@ -1,7 +1,7 @@
 # Weekly Notes
 
-1. **Aug Mon. 20th - Sat. 25th** ([C# Basics](https://github.com/nss-evening-cohort-07/notes/blob/master/topics/c-sharp-basics.md))
-1. **Aug 27th-1st** ([Classes, Methods, & Namespaces](https://github.com/nss-evening-cohort-07/notes/blob/master/topics/oop-basics.md))
+1. **Aug Mon. 20th - Sat. 25th** ([C# Basics](https://github.com/nss-evening-cohort-7/notes/blob/master/topics/c-sharp-basics.md))
+1. **Aug 27th-1st** ([Classes, Methods, & Namespaces](https://github.com/nss-evening-cohort-7/notes/blob/master/topics/oop-basics.md))
 1. **Sep 3rd-8th** (Collections)
 1. **Sep 10th-15th** (Inheritance & Interfaces)
 1. **Sep 17th-22nd** (LINQ)
@@ -14,7 +14,7 @@
 1. **Nov 12st-17th** (Scrum)
 	- Kickoff for Bangazon full time?
 		[Teamwork Orientation](https://github.com/nashville-software-school/teamwork-orientation)
-	- [Bangazon Terminal Interface](https://github.com/nss-evening-cohort-07/bangazon-inc/blob/master/projects/BANGAZON_TERMINAL_INTERFACE.md) // Refactor previous Bangazon exercises beforehand/afterward?
+	- [Bangazon Terminal Interface](https://github.com/nss-evening-cohort-7/bangazon-inc/blob/master/projects/BANGAZON_TERMINAL_INTERFACE.md) // Refactor previous Bangazon exercises beforehand/afterward?
 1. **Nov 19th-24th** // Sprint 1
 1. **Nov 26th-1st** // Sprint 1
 1. **Dec 3rd-8th** // Sprint 2

@@ -80,13 +80,13 @@ The `new` keyword (probably goes better after introducing classes)
     - Add 3 instances of each type of thing to the correct list
     - Loop over each list and print out text to the console for each item.
 
-- [LetterLoops](https://github.com/nss-evening-cohort-07/bangazon-inc/blob/master/orientation/exercises/LetterLoops.md) :abc: :arrows_clockwise:
+- [LetterLoops](https://github.com/nss-evening-cohort-7/bangazon-inc/blob/master/orientation/exercises/LetterLoops.md) :abc: :arrows_clockwise:
 
-Let's go through [this exercise](https://github.com/nss-evening-cohort-07/bangazon-inc/blob/master/orientation/02_FIRST_EXECUTABLE.md) to get an idea of some of the primary differences between C# and JavaScript, and learn a few extra commands that make our [command line interactive](https://github.com/nss-evening-cohort-07/bangazon-inc/blob/master/orientation/13_CLI_IO.md).
+Let's go through [this exercise](https://github.com/nss-evening-cohort-7/bangazon-inc/blob/master/orientation/02_FIRST_EXECUTABLE.md) to get an idea of some of the primary differences between C# and JavaScript, and learn a few extra commands that make our [command line interactive](https://github.com/nss-evening-cohort-7/bangazon-inc/blob/master/orientation/13_CLI_IO.md).
 
 > You can also optionally begin [Koans](https://github.com/NotMyself/DotNetCoreKoans) which are test driven way to understand the language syntax and available data structures. It's best to take your time and make sure you understand each section before progressing. Just making the test pass doesn't mean you learned the lesson. If you reach a section that we haven't covered, feel free to do some preliminary research until class covers that concept.
 
-- [Syntactic Sugar in C# 6](https://github.com/nss-evening-cohort-07/bangazon-inc/blob/master/orientation/exercises/06_%20EXPRESSION_FN_MEMBERS.md)
+- [Syntactic Sugar in C# 6](https://github.com/nss-evening-cohort-7/bangazon-inc/blob/master/orientation/exercises/06_%20EXPRESSION_FN_MEMBERS.md)
 ***
 
 ## How can I talk about what I'm learning?
