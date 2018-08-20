@@ -1,4 +1,3 @@
-# **Feb 3rd-8th**
 - [Testing] // speaking of which, how are koans coming along?
 	- [TDD Animals](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/formatting/orientation/exercises/14_TEST_ANIMALS.md)
 	- [TDD Calculator](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/formatting/orientation/exercises/13_TEST_CALCULATOR.md)

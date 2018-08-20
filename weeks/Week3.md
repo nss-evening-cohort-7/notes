@@ -1,5 +1,3 @@
-# **Jan 20th-25th**
-
 ## Inheritance :family_man_woman_girl_boy:
 
 Everyone remember [prototypal inheritance](https://stevebrownlee.keybase.pub/OLOO/assets/player/KeynoteDHTMLPlayer.html#0)?
@@ -22,4 +20,3 @@ These [first 4 articles](https://developer.mozilla.org/en-US/docs/Learn/JavaScri
 	- [Interfaces](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/formatting/orientation/exercises/bangazon/BANGAZON_04.md)
 	- [Employee Aggregation](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/formatting/orientation/exercises/bangazon/BANGAZON_05.md)
 - [SOLID Vehicles](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/master/orientation/exercises/11_INTERFACES.md) :blue_car: :racing_car: :police_car: :tractor: :articulated_lorry: :car:
-

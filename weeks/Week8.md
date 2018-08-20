@@ -1,4 +1,3 @@
-# **Feb 24th-1st**
 - [ORM Frameworks]
 	- Dapper
 	- Entity Framework

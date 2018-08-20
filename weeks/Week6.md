@@ -1,7 +1,3 @@
-# **Feb 10th-15th**
-
-Welcome to the world of data. You've already been here, but now everything will taste blue.
-
 Up to now we've been representing the things in our applications with Classes such as `User`, `Vehicle`, `Candy`, etc. Outside of code, these things are called models, or entities.
 
 [Normalization](https://www.essentialsql.com/get-ready-to-learn-sql-database-normalization-explained-in-simple-english/) is the process of separating your data entities into the smallest logical groups.
