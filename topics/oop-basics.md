@@ -36,3 +36,5 @@ You should already be familiar with [methods](https://github.com/nss-evening-coh
 	- [Corporate Class](https://github.com/nss-evening-cohort-7/bangazon-inc/blob/master/orientation/exercises/05_CLASSES.md)
 
 - [Jungle Overloading](https://github.com/nss-evening-cohort-7/bangazon-inc/blob/master/orientation/exercises/bangazon/BANGAZON_03.md)
+
+- [Syntactic Sugar in C# 6](https://github.com/nss-evening-cohort-7/bangazon-inc/blob/master/orientation/exercises/06_%20EXPRESSION_FN_MEMBERS.md)

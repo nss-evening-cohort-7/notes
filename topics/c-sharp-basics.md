@@ -87,7 +87,6 @@ Let's go through [this exercise](https://github.com/nss-evening-cohort-7/bangazo
 
 > You can also optionally begin [Koans](https://github.com/NotMyself/DotNetCoreKoans) which are test driven way to understand the language syntax and available data structures. It's best to take your time and make sure you understand each section before progressing. Just making the test pass doesn't mean you learned the lesson. If you reach a section that we haven't covered, feel free to do some preliminary research until class covers that concept.
 
-- [Syntactic Sugar in C# 6](https://github.com/nss-evening-cohort-7/bangazon-inc/blob/master/orientation/exercises/06_%20EXPRESSION_FN_MEMBERS.md)
 ***
 
 ## How can I talk about what I'm learning?
