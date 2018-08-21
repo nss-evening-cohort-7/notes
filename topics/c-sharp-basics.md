@@ -75,12 +75,7 @@ The `new` keyword (probably goes better after introducing classes)
 
 ##### Exercises
 
-- Collecting your favorite things
-    - Create 1 more favorite thing class.
-    - Create a List to contain each of your favorite things
-    - Add 3 instances of each type of thing to the correct list
-    - Loop over each list and print out text to the console for each item.
-
+- [C# Tutorial on Repl.it](https://repl.it/community/classrooms/20702)
 - [LetterLoops](https://github.com/nss-evening-cohort-7/bangazon-inc/blob/master/orientation/exercises/LetterLoops.md) :abc: :arrows_clockwise:
 
 Let's go through [this exercise](https://github.com/nss-evening-cohort-7/bangazon-inc/blob/master/orientation/02_FIRST_EXECUTABLE.md) to get an idea of some of the primary differences between C# and JavaScript, and learn a few extra commands that make our [command line interactive](https://github.com/nss-evening-cohort-7/bangazon-inc/blob/master/orientation/13_CLI_IO.md).

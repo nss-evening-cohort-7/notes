@@ -1,6 +1,6 @@
 # Weekly Notes
 
-1. **Aug Mon. 20th - Sat. 25th** ([C# Basics](https://github.com/nss-evening-cohort-7/notes/blob/master/topics/c-sharp-basics.md))
+1. **Aug Mon. 20th - Sat. 25th** ([Installs](https://github.com/nss-evening-cohort-7/notes/blob/master/topics/installs.md), [C# Basics](https://github.com/nss-evening-cohort-7/notes/blob/master/topics/c-sharp-basics.md))
 1. **Aug 27th-1st** ([Classes, Methods, & Namespaces](https://github.com/nss-evening-cohort-7/notes/blob/master/topics/oop-basics.md))
 1. **Sep 3rd-8th** (Collections)
 1. **Sep 10th-15th** (Inheritance & Interfaces)

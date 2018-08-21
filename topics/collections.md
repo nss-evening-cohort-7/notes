@@ -14,7 +14,5 @@ In Javascript you have arrays and objects. In C# you have [Collections](https://
 - Hashsets
 	- [Kill Nickelback](https://github.com/nss-evening-cohort-7/bangazon-inc/blob/master/orientation/exercises/09_KILL_NICKELBACK.md)
 	- [Car Hash](https://github.com/nss-evening-cohort-7/bangazon-inc/blob/formatting/orientation/exercises/04_HASHSETS.md)
-***
-
-- ~~[Transaction Tuples](https://github.com/nss-evening-cohort-7/bangazon-inc/blob/formatting/orientation/exercises/02_TUPLES.md)~~
-- ~~[Stock Purchase Dictionary](https://github.com/nss-evening-cohort-7/bangazon-inc/blob/master/orientation/exercises/03_DICTIONARIES.md) :chart_with_upwards_trend: :chart_with_downwards_trend:~~
+- [Transaction Tuples](https://github.com/nss-evening-cohort-7/bangazon-inc/blob/formatting/orientation/exercises/02_TUPLES.md)
+- [Stock Purchase Dictionary](https://github.com/nss-evening-cohort-7/bangazon-inc/blob/master/orientation/exercises/03_DICTIONARIES.md) :chart_with_upwards_trend: :chart_with_downwards_trend:

@@ -20,7 +20,12 @@ You should already be familiar with [methods](https://github.com/nss-evening-coh
 
 ##### Exercises
 
-- A few of your favorite things (Custom Types with behavior)
+- Your favorite things
+  - Create at least four classes, each representing one of your favorite things.
+  - Give each of these things two or more properties (attributes).
+  - Give each of these things two or more methods (behavior).
+  - Create at least one instance in your `Main` method of each of these classes.
+  - Loop over each of your instantiated favorite things and print the attributes and behaviors to the console.
 
 - Construct some Lego Minifigure Classes
 	###### Properties
