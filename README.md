@@ -5,10 +5,10 @@
 1. **Sep 3rd-8th** (Collections)
 1. **Sep 10th-15th** (Inheritance & Interfaces)
 1. **Sep 17th-22nd** (LINQ)
-1. **Sep 24th-29th** (TDD)
+1. **Sep 24th-29th** (TDD) // guest alumni speaker
 1. **Oct 1st-6th** (Databases)
 1. **Oct 8th-13th** (null)
-1. **Oct 15th-20th** (ORMs)
+1. **Oct 15th-20th** (ORMs) // guest employer panel
 1. **Oct 22nd-27th** (null)
 1. **Nov 5th-10th** (null)
 1. **Nov 12st-17th** (Scrum)

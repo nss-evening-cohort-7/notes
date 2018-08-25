@@ -77,6 +77,7 @@ The `new` keyword (probably goes better after introducing classes)
 
 - [C# Tutorial on Repl.it](https://repl.it/community/classrooms/20702)
 - [LetterLoops](https://github.com/nss-evening-cohort-7/bangazon-inc/blob/master/orientation/exercises/LetterLoops.md) :abc: :arrows_clockwise:
+- [Number Multiplier](https://github.com/nss-evening-cohort-7/bangazon-inc/blob/master/orientation/exercises/NumberMultiplier.md)
 
 Let's go through [this exercise](https://github.com/nss-evening-cohort-7/bangazon-inc/blob/master/orientation/02_FIRST_EXECUTABLE.md) to get an idea of some of the primary differences between C# and JavaScript, and learn a few extra commands that make our [command line interactive](https://github.com/nss-evening-cohort-7/bangazon-inc/blob/master/orientation/13_CLI_IO.md).
 
