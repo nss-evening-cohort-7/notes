@@ -51,8 +51,6 @@ var intro = $"My name is {fullName} and I'm {age} years old";
 ```
 BTW, you can use `var` instead of the type and the compiler will infer the type for you.
 
-The `new` keyword (probably goes better after introducing classes)
-
 ### Logical Operators
 - [C# operators](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/)
 
