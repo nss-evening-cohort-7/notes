@@ -8,7 +8,9 @@ If you've used classes in JavaScript, then C# is semantically similar; even if J
 > [C# accessibility levels](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/accessibility-levels) are a popular, trivia style, question in interviews.
 
 ### Properties and Fields
-[Properties](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/properties) & [Fields](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/fields) are provided as a way to store the internal state of your class. Idiomatic C# states that fields should be prefixed with an underscore (`_myPrivateField`) and properties are named using Camel Caps (`MyPublicProperty { get; set; }`).
+[Properties](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/properties) & [Fields](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/fields) are provided as a way to store the state of your class. Idiomatic C# states that fields should be prefixed with an underscore (`_myPrivateField`) and properties are named using Camel Caps (`MyPublicProperty { get; set; }`).
+
+Fields are always internal to the class, but Properties have the option, using the C# accessibility levels, to be exposed to other areas of the application.
 
 ### Methods
 You should already be familiar with [methods](https://github.com/nss-evening-cohort-7/bangazon-inc/blob/master/orientation/04_METHODS.md). They are simply functions attached to an object (or instantiated Class) that perform an action.
