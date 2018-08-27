@@ -51,6 +51,22 @@ var intro = $"My name is {fullName} and I'm {age} years old";
 ```
 BTW, you can use `var` instead of the type and the compiler will infer the type for you.
 
+### Default Values & Nullability
+C# value types have a variety of [default values](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/default-values-table), particularly if they are prohibited from being set to null.
+```cs
+bool inClass; // defaults to false
+int countOfStudents; // defaults to 0
+char letterGrade; // defaults to '\0'
+string groupName; // string is a special one. It defaults to null.
+```
+
+If you want one of the value types to allow assignment of null, then you can suffix the variable type with `?`.
+```cs
+bool? inClass = null;
+int? countOfStudents = null;
+char? letterGrade = null;
+```
+
 ### Logical Operators
 - [C# operators](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/)
 
