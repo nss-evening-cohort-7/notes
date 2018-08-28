@@ -35,11 +35,12 @@ You should already be familiar with [methods](https://github.com/nss-evening-coh
 ##### Exercises
 
 - Your favorite things
-  - Create at least four classes, each representing one of your favorite things.
-  - Give each of these things two or more properties (attributes).
-  - Give each of these things two or more methods (behavior).
-  - Create at least one instance in your `Main` method of each of these classes.
-  - Loop over each of your instantiated favorite things and print the attributes and behaviors to the console.
+	- Create at least four classes, each representing one of your favorite things.
+	- Give each of these things two or more properties (attributes).
+	- Give each of these things two or more methods (behavior).
+		- It's fine if these methods just write a sentence to the console to represent the behavior.
+	- Create at least one instance in your `Main` method of each of these classes.
+	- Loop over each of your instantiated favorite things and print the attributes and behaviors to the console in any way you want.
 
 - Construct some Lego Minifigure Classes
 	###### Properties
@@ -50,6 +51,10 @@ You should already be familiar with [methods](https://github.com/nss-evening-coh
 
 	If you were working at [Tt Games](http://www.ttgames.com/), your minifigure classes might have actions associated with them in the form of jump, double jump, attack, special attack, look & move methods.
 	There might even be certain conditions that must be met to construct (or unlock) a new character or other kind of object.
+	- You don't actually need to write any functionality in these methods unless you want to; totally your call. This is just an exercise in building object oriented code. If you want to see if you code compiles, you can insert this line into your method body in lieu of functionality.
+	```cs
+	throw new NotImplementedException();
+	```
 
 - Bangazon
 	- [Corporate Class](https://github.com/nss-evening-cohort-7/bangazon-inc/blob/master/orientation/exercises/05_CLASSES.md)
