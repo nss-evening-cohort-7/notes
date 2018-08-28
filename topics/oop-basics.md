@@ -10,7 +10,16 @@ If you've used classes in JavaScript, then C# is semantically similar; even if J
 ### Properties and Fields
 [Properties](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/properties) & [Fields](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/fields) are provided as a way to store the state of your class. Idiomatic C# states that fields should be prefixed with an underscore (`_myPrivateField`) and properties are named using Camel Caps (`MyPublicProperty { get; set; }`).
 
-Fields are always internal to the class, but Properties have the option, using the C# accessibility levels, to be exposed to other areas of the application.
+There is a special version of Properties called _**Auto Properties**_ that include the default getter and setter for the property.
+```cs
+public string HomeAddress { get; set; }
+```
+You can also customize the accessibility of the getter or setter.
+```cs
+public SocialSecurityNumber { get; private set; }
+```
+
+Fields and Properties can be functionally equivalent, but idiomatically speaking, Fields are intended for the internal state of the class and Properties are used to expose values to other areas of the application.
 
 ### Methods
 You should already be familiar with [methods](https://github.com/nss-evening-cohort-7/bangazon-inc/blob/master/orientation/04_METHODS.md). They are simply functions attached to an object (or instantiated Class) that perform an action.
