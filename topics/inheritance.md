@@ -8,8 +8,10 @@ These [first 4 articles](https://developer.mozilla.org/en-US/docs/Learn/JavaScri
 ### Other types of relationships
 There are a [couple other ways](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/inheritance) that C# can define relationships between Classes. Remember that a good way to tell the difference between when to use these different types of relationships is to ask yourself if the relationship between the things can be described best as "Thing 1 _**is a**_ Thing 2" or "Thing 1 _**has a**_ Thing 2"
 
-### [Abstract classes](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/abstract)
-(Coming soon)
+### Abstract classes
+[Abstract classes](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/abstract) can only be inherited from and cannot be instantiated. They are meant to serve as a base class to a series of related things that may want to share functionality.
+
+You can also add the `abstract` keyword to methods inside of an abstract class if you only want to define the method signature, but you don't want to define any functionality at that time.
 
 ##### Exercises
 
