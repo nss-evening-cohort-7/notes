@@ -1,9 +1,10 @@
 ## Language Integrated Query (aka [LINQ](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/index))
-If you like playing with data, you're going to enjoy [LINQ](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/master/orientation/07_LINQ.md)
+If you like playing with data, you're going to enjoy [LINQ](https://github.com/nss-evening-cohort-7/bangazon-inc/blob/master/orientation/07_LINQ.md)
 
 ###### The setup
 ```cs
-public class Student {
+public class Student
+{
 	public string Name { get; set; }
 	public bool IsPayingAttention { get; set; }
 }
@@ -38,8 +39,8 @@ These two examples above accomplish the exact same thing. As you're learning, it
 The return value of all LINQ operations is [IQueryable](https://docs.microsoft.com/en-us/dotnet/api/system.linq.iqueryable). Notice the "I" in the front of the word. That means it's an interface. There's a [rabbit hole here](https://www.google.com/search?q=code+to+interfaces+not+implementations) regarding coding to interfaces if you choose to follow it.
 
 ##### Exercises
-- [LINQed List](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/master/orientation/exercises/07_LINQ_LIST.md)
-- [Advanced LINQ](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/master/orientation/exercises/20_ADVANCED_LINQ.md)
+- [LINQed List](https://github.com/nss-evening-cohort-7/bangazon-inc/blob/master/orientation/exercises/07_LINQ_LIST.md)
+- [Advanced LINQ](https://github.com/nss-evening-cohort-7/bangazon-inc/blob/master/orientation/exercises/20_ADVANCED_LINQ.md)
 
 
-Protip - [Regex](https://github.com/nss-evening-cohort-06/bangazon-inc/blob/formatting/concepts/csharp-language/regular-expressions.md) can be used [inside your LINQ](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/how-to-combine-linq-queries-with-regular-expressions)
+Protip - [Regex](https://github.com/nss-evening-cohort-7/bangazon-inc/blob/formatting/concepts/csharp-language/regular-expressions.md) can be used [inside your LINQ](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/how-to-combine-linq-queries-with-regular-expressions)

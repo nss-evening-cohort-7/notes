@@ -4,7 +4,7 @@
 1. **Aug 27th-1st** ([Classes, Methods, & Namespaces](https://github.com/nss-evening-cohort-7/notes/blob/master/topics/oop-basics.md))
 1. **Sep 3rd-8th** ([Inheritance & Composition](https://github.com/nss-evening-cohort-7/notes/blob/master/topics/inheritance.md))
 1. **Sep 10th-15th** ([Collections](https://github.com/nss-evening-cohort-7/notes/blob/master/topics/collections.md), [Interfaces](https://github.com/nss-evening-cohort-7/notes/blob/master/topics/interfaces.md))
-1. **Sep 17th-22nd** (LINQ)
+1. **Sep 17th-22nd** (APIs, [LINQ](https://github.com/nss-evening-cohort-7/notes/blob/master/topics/linq.md))
 1. **Sep 24th-29th** (TDD) // guest alumni speaker
 1. **Oct 1st-6th** (Databases)
 1. **Oct 8th-13th** (null)
