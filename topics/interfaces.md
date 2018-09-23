@@ -1,4 +1,4 @@
-### Interfaces
+# Interfaces
 
 An [Interface](https://github.com/nss-evening-cohort-7/bangazon-inc/blob/master/orientation/10_INTERFACES.md) functions as a [contract for a class](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/interfaces/) to implement properties and methods. Unlike abstract classes, they cannot have a defined implementation. They will only contain properties(not initialized) and method signatures.
 

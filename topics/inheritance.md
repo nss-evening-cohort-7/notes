@@ -1,4 +1,4 @@
-## Inheritance :family_man_woman_girl_boy:
+# Inheritance :family_man_woman_girl_boy:
 
 In Javascript, every array you ever created has methods like `.map()`, `.filter()`, & `.forEach()`, but you didn't write those methods so how are they part of every array? The answer is inheritance. Javascript has a kind of inheritance called prototypal inheritance ([check out Steve's keynote slide deck](https://stevebrownlee.keybase.pub/OLOO/assets/player/KeynoteDHTMLPlayer.html#0)). [Classical Inheritance](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/inheritance) :classical_building: in C# looks and acts different, but has a very similar effect to how it acts in Javascript.
 

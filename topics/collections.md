@@ -1,4 +1,4 @@
-### Collections
+# Collections
 
 In Javascript you have arrays and objects. In C# you have [Collections](https://github.com/nss-evening-cohort-7/bangazon-inc/blob/master/orientation/06_COLLECTIONS.md). You'll be learning about only a couple of the most common ones.
 

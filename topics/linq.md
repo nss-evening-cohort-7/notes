@@ -1,4 +1,4 @@
-## Language Integrated Query (aka [LINQ](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/index))
+# Language Integrated Query (aka [LINQ](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/index))
 If you like playing with data, you're going to enjoy [LINQ](https://github.com/nss-evening-cohort-7/bangazon-inc/blob/master/orientation/07_LINQ.md)
 
 ###### The setup
