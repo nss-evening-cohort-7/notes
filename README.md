@@ -5,13 +5,13 @@
 1. **Sep 3rd-8th** ([Inheritance & Composition](https://github.com/nss-evening-cohort-7/notes/blob/master/topics/inheritance.md))
 1. **Sep 10th-15th** ([Collections](https://github.com/nss-evening-cohort-7/notes/blob/master/topics/collections.md), [Interfaces](https://github.com/nss-evening-cohort-7/notes/blob/master/topics/interfaces.md))
 1. **Sep 17th-22nd** ([APIs](https://github.com/nss-evening-cohort-7/notes/blob/master/topics/webapi.md), [LINQ](https://github.com/nss-evening-cohort-7/notes/blob/master/topics/linq.md))
-1. **Sep 24th-29th** (TDD) // guest alumni speaker
-1. **Oct 1st-6th** (Databases)
-1. **Oct 8th-13th** (null)
-1. **Oct 15th-20th** (ORMs) // guest employer panel
-1. **Oct 22nd-27th** (null)
-1. **Nov 5th-10th** (null)
-1. **Nov 12st-17th** (Scrum)
+1. **Sep 24th-29th** ([TDD](https://github.com/nss-evening-cohort-7/notes/blob/master/topics/tdd.md))
+1. **Oct 1st-6th** (WebAPI Group Project)
+1. **Oct 8th-13th** (ERDs, Databases)
+1. **Oct 15th-20th** (SQL) // guest employer panel
+1. **Oct 22nd-27th** (ORMs)
+1. **Nov 5th-10th** (Scrum)
+1. **Nov 12st-17th** (null)
 	- Kickoff for Bangazon full time?
 		[Teamwork Orientation](https://github.com/nashville-software-school/teamwork-orientation)
 	- [Bangazon Terminal Interface](https://github.com/nss-evening-cohort-7/bangazon-inc/blob/master/projects/BANGAZON_TERMINAL_INTERFACE.md) // Refactor previous Bangazon exercises beforehand/afterward?
@@ -24,5 +24,5 @@
 1. **Jan 12th-17th** // Sprint 4
 1. **Jan 19th-24th** // Sprint 4
 1. **Jan 26th-31st** (Capstone)
-1. **Feb 2nd-7th** (Capstones)
-1. **Feb 9th-14th** (Capstones)
+1. **Feb 2nd-7th** (Capstone)
+1. **Feb 9th-14th** (Capstone)
