@@ -7,9 +7,9 @@
 1. **Sep 17th-22nd** ([APIs](https://github.com/nss-evening-cohort-7/notes/blob/master/topics/webapi.md), [LINQ](https://github.com/nss-evening-cohort-7/notes/blob/master/topics/linq.md))
 1. **Sep 24th-29th** ([TDD](https://github.com/nss-evening-cohort-7/notes/blob/master/topics/tdd.md))
 1. **Oct 1st-6th** ([WebAPI Group Project](https://www.notion.so/nsseveningcohort7/ClinkedIn-cb5f5f9fade1480b9ff6cc024bd0f929))
-1. **Oct 8th-13th** (ERDs, Databases)
+1. **Oct 8th-13th** ([ERDs, Databases](https://github.com/nss-evening-cohort-7/notes/blob/master/topics/erd.md))
 1. **Oct 15th-20th** (SQL) // guest employer panel
-1. **Oct 22nd-27th** (ORMs)
+1. **Oct 22nd-27th** ([ORMs](https://github.com/nss-evening-cohort-7/notes/blob/master/topics/orm.md))
 1. **Nov 5th-10th** ([Scrum](https://www.notion.so/nsseveningcohort7/Fairy-Tale-Comic-Book-7407b192e77f4ada9bb761be0bec9dff))
 1. **Nov 12st-17th** (null)
 	- Kickoff for Bangazon full time?
